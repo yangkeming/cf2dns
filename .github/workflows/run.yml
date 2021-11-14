@@ -1,4 +1,4 @@
-name: 'GitHub Actions CloudFlare2DNSPod Bot'
+name: 'Gfwservice Auto CloudFlare2Dnspod Bot'
 
 on:
   push:
